@@ -1,0 +1,66 @@
+time,mint,symbol,stage,verdict,confidence,reason
+2026-11-02 21:40,FMmmuDrCwe9ZzsVz7enjGqgrjBFp8a283nZ7jbTrpump,Boba,pool,SKIP,,thin_pool
+2026-11-02 21:40,5nubwW2MN5KESGnqqcuXBn8NpcPFF3VuFW8j3AWEpump,YELU,pool,SKIP,,thin_pool
+2026-11-02 21:40,9nutvj678qvbouYKqHkSJu3n5cQUEZw42wtPdjekpump,horse,facts,SKIP,,danger:Large Amount of LP Unlocked
+2026-11-02 21:40,CAoAQvqA8qQXrBFgVXwcasueKRdHJ8Cim7ixMTZSpump,SHORT,facts,SKIP,,top10_heavy
+2026-11-02 21:40,6Ng4MHjMbNAUySLKXQDsRpCrvKdCeTUb2cePRXCSpump,Alouatta,pool,SKIP,,thin_pool
+2026-11-02 21:55,ALTRgkReDWGmhisjTXwqHvbZRUcVoJicj54bQzVCpump,PizzaGate,pool,SKIP,,thin_pool
+2026-11-02 21:55,HcUWHmM5QgpPMDekGTKYWTGEFzAndG4t9ZUrYBm6pump,OPTIC,pool,SKIP,,thin_pool
+2026-11-02 21:55,5q3qz1ajtbS8aBvcCMU63sK3YKWs7c5kqtrkeZLBpump,YELU,facts,SKIP,,rugcheck failed: 400 Client Error: Bad Request for url: https://api.rugcheck.xyz/v1/tokens/5q3qz1ajtbS8aBvcCMU63sK3YKWs7c5kqtrkeZLBpump/report
+2026-11-02 21:55,9nutvj678qvbouYKqHkSJu3n5cQUEZw42wtPdjekpump,horse,facts,SKIP,,danger:Large Amount of LP Unlocked
+2026-11-02 21:55,DtspS4D5sX9rZqi5oeWnd8YFQsCsqkrwmuR4NvAYpump,SELFBET,facts,SKIP,,danger:Top 10 holders high ownership
+2026-11-02 21:56,AWRPD8jjvTHTnUXWMEfUCg8hKaev2rjjZ2QDCcfjpump,Mamesuke,pool,SKIP,,thin_pool
+2026-11-02 21:56,6qnAerbLSGbhS3i6Xyh8AcsLTrutS1Rb7kuHsfwZpump,ADCY,facts,SKIP,,insiders
+2026-11-02 21:56,9QXux7boKcnA5eoHvXTUhGCEQQRr6F1AKrmBd3gRpump,Mutant,pool,SKIP,,thin_pool
+2026-11-02 21:56,8SymmzsWdQBweqCK1p35MGNCwgw8FgPRdL4KPckdata,DATALOOM,facts,SKIP,,danger:Low Liquidity
+2026-11-02 21:56,Gdzu2f4SCNFGCgGLjDrpsQyqxvEzYddcW33UN54Qpump,Uma,pool,SKIP,,thin_pool
+2026-11-02 22:02,7uwr9Zoz8WW9UyRVC22nmmAXRbPoFTUpVjsN8q7kids,KIDS,pool,SKIP,,thin_pool
+2026-11-02 22:02,8nDq2s5pmGn7jGRkawHe2d4eYcr7G1DetbYTWovspump,SCROOGE,pool,SKIP,,thin_pool
+2026-11-02 22:02,GnY6RSduqXgJ3nas2CKTDkNbrm2FXYExFxP7BXYEpump,PAUL,facts,SKIP,,insiders
+2026-11-02 22:02,4MnM6aAuayLRhejDSuiaEm2QGyR4ye4Sxhdywt37pump,SLINGOOR,facts,SKIP,,danger:Low Liquidity
+2026-11-02 22:02,7LzPdsBxMoR9FrjgizvxNRvDtjGSP423quJ4M7Jqpump,Slingoor,facts,SKIP,,danger:Low Liquidity
+2026-11-02 22:09,xRtT8q7g7NsAnbTgvCtim8jtxKVVc5epoLoAYmqpump,CAPYTISTAS,facts,SKIP,,insiders
+2026-11-02 22:09,6qnAerbLSGbhS3i6Xyh8AcsLTrutS1Rb7kuHsfwZpump,ADCY,facts,SKIP,,insiders
+2026-11-02 22:09,7uwr9Zoz8WW9UyRVC22nmmAXRbPoFTUpVjsN8q7kids,KIDS,pool,SKIP,,thin_pool
+2026-11-02 22:09,8kuQg3WivDtL85VEdw2jEmSXjYt6EEeYBATJ4DtQpump,RICO,facts,SKIP,,danger:Creator history of rugged tokens
+2026-11-02 22:09,GnY6RSduqXgJ3nas2CKTDkNbrm2FXYExFxP7BXYEpump,PAUL,facts,SKIP,,insiders
+2026-11-02 22:15,8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump,ANAKIN,grok,SKIP,0.93,"Same ticker is already tied to a different Solana mint on X, so this is copycat risk by rule. This mint's posts are a same-hour wave of identical Moonshot/pump vote bait from unrelated accounts, not a dev or a real community."
+2026-11-02 22:15,ExxzYBTt3jwU5MUxuw2F4toYbTLdFwThSjyaCn6Xpump,Anakin,facts,SKIP,,insiders
+2026-11-02 22:15,BngAfLZxaWN2QvpFhRbUHydYGr8zA7YTSA178G8Epump,PEACE,facts,SKIP,,insiders
+2026-11-02 22:15,5BDmaYCBL9oznREDgx93Vop614p3SradkMJLfzFhzaob,,facts,SKIP,,rugcheck failed: 400 Client Error: Bad Request for url: https://api.rugcheck.xyz/v1/tokens/5BDmaYCBL9oznREDgx93Vop614p3SradkMJLfzFhzaob/report
+2026-11-02 22:15,GoDSW31bTxfkoup9yA1qcGGx9RMXdTEWgApv3xzBmoA,STEALTH,facts,SKIP,,insiders
+2026-11-02 22:15,CvRJ8MrnB1AwjrgX25uyeLJiXNSugTo2ZHh8UXDTpump,ANSEM,facts,SKIP,,insiders
+2026-11-02 22:15,wMHBD2B8KbDagvXUEapginhtJdrH4QSvSezBM8Tpump,ANTS,facts,SKIP,,danger:Large Amount of LP Unlocked
+2026-11-02 22:15,3jAHcV6ZwmA3pnrR9MrWwNSbN5gDiM7rSM1RJradQ8xK,CHAD,facts,SKIP,,danger:Low Liquidity
+2026-11-02 22:15,GexThZHgaswpAQ7Fi8QrHFubjPimUNSYhJiAA7XZpump,WASTED,facts,SKIP,,insiders
+2026-11-02 22:15,8s11PkgQt4ZzdZ7oo84hK5t9HG1EvdgAjcg4W7Lpump,BLOB,facts,SKIP,,lp_unlocked
+2026-11-02 22:15,6QUHcqYuiPRHxhnYZoygewXtNQr9kUrhc9Tmwgtbpump,,facts,SKIP,,rugcheck failed: 400 Client Error: Bad Request for url: https://api.rugcheck.xyz/v1/tokens/6QUHcqYuiPRHxhnYZoygewXtNQr9kUrhc9Tmwgtbpump/report
+2026-11-02 22:20,DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr,CAPY,pool,SKIP,,no_pool
+2026-11-02 22:20,5DnWmSL9t3YqK5MeYq8ozJpna46VcdePWzHvyN8avg2g,CAPY,facts,SKIP,,insiders
+2026-11-02 22:20,GnmsWg3igP5by5EYMKS4tVwM5ZjzDMgaayQTNT65HoLd,OLDPUMP,facts,SKIP,,danger:Low Liquidity
+2026-11-02 22:20,3R6C9YD2Mmmm96H4UbpwTTyC4emnBxY3QGAgVwxepump,Escobahh,pool,SKIP,,thin_pool
+2026-11-02 22:20,wLjTQSsKmoy9pjE7ZcdtU1Vf5HKhKPU2piR3vXGpump,HACKCAT,pool,SKIP,,thin_pool
+2026-11-02 22:32,mUakXVwjZYyCDqkrrzE8g6XW9FqianLunmNTGgipump,SAMANTHA,pool,SKIP,,no_price
+2026-11-02 22:32,6kKETm8xPeZ2z1DBYjXmxMTFAJudvGHJvRHu5Wt8uGtf,COLLECTOR,facts,SKIP,,top10_heavy
+2026-11-02 22:32,92jz5dgWVfN5y1fmev5xu1D3fPmD4td6pzQ3muBpump,PEPPER,facts,SKIP,,insiders
+2026-11-02 22:46,GsNVxDCFAoynYr1K1gVUD9aJUhLzvfZBFECyCzQBGAME,WOOL,pool,SKIP,,thin_pool
+2026-11-02 22:46,H2F3dSkiLxyRekj1uzyUyyRpKLSrc7aDEyNrADbcpump,SPDR,pool,SKIP,,no_price
+2026-11-02 22:46,Ei19qkvBM3amMyrveNLqKSPB1ESMEUQ6MrqDYwZVpump,豆助,pool,SKIP,,too_fresh
+2026-11-02 22:46,3svjF5QE5UcYSuajZr4MD9voX5WCDmPB7WbxniBTpump,Grindset,facts,SKIP,,danger:Creator history of rugged tokens
+2026-11-02 22:46,H4gHnZ3NCU7Z9XQwGX6YYJNyieGEW8pqwGRUcdSxpump,Slingoor,grok,SKIP,0.93,"Hard checks are clean, but X is a same-minute caller farm with copy-paste entries and fake multi-x posts. A second contract is being pushed under the same ticker."
+2026-11-02 23:14,5DnWmSL9t3YqK5MeYq8ozJpna46VcdePWzHvyN8avg2g,CAPY,facts,SKIP,,insiders
+2026-11-02 23:14,DBPTU2oKLDHXQjAEJ3rZi8bUGmt2uxUbipgg6xmXoMqr,CAPY,facts,SKIP,,insiders
+2026-11-02 23:14,Ei19qkvBM3amMyrveNLqKSPB1ESMEUQ6MrqDYwZVpump,豆助,pool,HOLD,,passed facts+pool; Grok deferred (paper week not started)
+2026-11-02 23:14,H4gHnZ3NCU7Z9XQwGX6YYJNyieGEW8pqwGRUcdSxpump,Slingoor,pool,HOLD,,passed facts+pool; Grok deferred (paper week not started)
+2026-11-02 23:14,6kKETm8xPeZ2z1DBYjXmxMTFAJudvGHJvRHu5Wt8uGtf,COLLECTOR,facts,SKIP,,lp_unlocked
+2026-11-02 23:14,SCGBBnSwnekytGFHgyeHHxPMiN7xDxsWFGg9JgFSTNK,MAMESUKE,facts,SKIP,,lp_unlocked
+2026-11-02 23:14,8s4bNqEztH1JP7mkU747uMr7AckCQdiV47FDqYnDpump,ANAKIN,pool,HOLD,,passed facts+pool; Grok deferred (paper week not started)
+2026-11-02 23:14,B1FxS86N8hEBTgKMpt29yPB9VzPxXUgNY7AzdjGZpump,SLM,pool,SKIP,,thin_pool
+2026-11-02 23:15,4DV2FsyBjowCbFtbhFdv9u3EuUFDZK2ZEMFVodE3pump,XMOON,facts,SKIP,,danger:Creator history of rugged tokens
+2026-11-02 23:15,8rMKmGTdLqx6xNvjLMARQxRQMXtvE4jnDY8ZqN2wpump,TRENCHER,facts,SKIP,,insiders
+2026-11-02 23:15,HsprHxBRgiVaQdRf3TnKNuZZtaX9JUSPgMFdAkk6pump,GATO,facts,SKIP,,insiders
+2026-11-03 15:55,FSfyGqKCMWi3UjQarU5QycGnBfNphX144zoeHdzWM9ZM,CI,facts,SKIP,,danger:Creator history of rugged tokens
+2026-11-03 15:55,ESqXTLxmuYeU2MeUzZfdxFP81EXpTPR5sgWkzmAVpump,zkSnark,facts,SKIP,,insiders
+2026-11-03 15:55,4up8RwmTFU6qVaZaS4pWa8R8qH8DE13NvAF6rRo2pump,SATMINE,pool,SKIP,,thin_pool
+2026-11-03 15:55,4yxnt3xAdyBFFbzMWJy9sjGEoiBNkjwdSQZ8ZyULpump,MOGMAS,pool,SKIP,,thin_pool
+2026-11-03 15:55,Hxqh7Fxsz11pyqDRdEkBgP8vP44BPLPnQDrxzPYZpump,PUMP,facts,SKIP,,insiders

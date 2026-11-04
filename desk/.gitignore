@@ -1,0 +1,11 @@
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+discovery.json
+discovery.json.tmp
+shadow.json
+shadow.json.tmp
+positions.json
+trades.csv
+scan.lock
